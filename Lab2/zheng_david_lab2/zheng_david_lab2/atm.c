@@ -1,5 +1,5 @@
 //
-//  main.c
+//  atm.c
 //  zheng_david_lab2
 //
 //  Created by David Zheng on 9/7/18.
