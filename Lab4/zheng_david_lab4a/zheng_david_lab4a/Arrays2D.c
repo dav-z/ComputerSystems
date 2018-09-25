@@ -1,6 +1,11 @@
 //
+//  David Zheng
+//  September 27, 2018
+//  CIS2107 Computer Systems and Low-Level Programming
+//  Section 4
+//  Lab 4 Part 1
 //  Arrays2D.c
-//  zheng_david_lab4
+//  Objective: Design and implement functionsto process 2DArrays
 //
 //  Created by David Zheng on 9/21/18.
 //  Copyright © 2018 David Zheng. All rights reserved.
